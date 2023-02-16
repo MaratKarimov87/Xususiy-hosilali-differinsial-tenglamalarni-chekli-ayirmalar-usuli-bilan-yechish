@@ -1,4 +1,4 @@
-#Crout factorization for Tridiagonal linear systems
+#Uch diagonalli tenglamalar sistemasini yechish uchun progonka usuli
 
 # AX = B ko'rinishdagi tenglamalar sistemasini yechish
 # A - uch diagonalli matritsa
